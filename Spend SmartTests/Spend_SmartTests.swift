@@ -1,10 +1,3 @@
-//
-//  Spend_SmartTests.swift
-//  Spend SmartTests
-//
-//  Created by Kunj Patel on 12/3/25.
-//
-
 import Testing
 @testable import Spend_Smart
 

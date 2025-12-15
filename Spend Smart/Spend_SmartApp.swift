@@ -1,10 +1,3 @@
-//
-//  Spend_SmartApp.swift
-//  Spend Smart
-//
-//  Created by Kunj Patel on 12/3/25.
-//
-
 import SwiftUI
 
 @main

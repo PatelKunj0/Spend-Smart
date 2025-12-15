@@ -1,10 +1,3 @@
-//
-//  Spend_SmartUITests.swift
-//  Spend SmartUITests
-//
-//  Created by Kunj Patel on 12/3/25.
-//
-
 import XCTest
 
 final class Spend_SmartUITests: XCTestCase {

@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		270255972EE10AE5009C2EF4 /* Spend Smart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spend Smart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		270255A42EE10AE6009C2EF4 /* Spend SmartTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Spend SmartTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		270255AE2EE10AE6009C2EF4 /* Spend SmartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Spend SmartUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		270255A42EE10AE6009C2EF4 /* Spend SmartTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Spend SmartTests.xctest"; path = "/Users/kunjpatel/Documents/CodingStuff/Xcode/Spend Smart/build/Debug-iphoneos/Spend Smart.app/PlugIns/Spend SmartTests.xctest"; sourceTree = "<absolute>"; };
+		270255AE2EE10AE6009C2EF4 /* Spend SmartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Spend SmartUITests.xctest"; path = "/Users/kunjpatel/Documents/CodingStuff/Xcode/Spend Smart/build/Debug-iphoneos/Spend SmartUITests-Runner.app/PlugIns/Spend SmartUITests.xctest"; sourceTree = "<absolute>"; };
+		279034412EE27A91006C1B77 /* Spend Smart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spend Smart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,18 +78,8 @@
 				270255992EE10AE5009C2EF4 /* Spend Smart */,
 				270255A72EE10AE6009C2EF4 /* Spend SmartTests */,
 				270255B12EE10AE6009C2EF4 /* Spend SmartUITests */,
-				270255982EE10AE5009C2EF4 /* Products */,
+				279034412EE27A91006C1B77 /* Spend Smart.app */,
 			);
-			sourceTree = "<group>";
-		};
-		270255982EE10AE5009C2EF4 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				270255972EE10AE5009C2EF4 /* Spend Smart.app */,
-				270255A42EE10AE6009C2EF4 /* Spend SmartTests.xctest */,
-				270255AE2EE10AE6009C2EF4 /* Spend SmartUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -114,7 +104,7 @@
 			packageProductDependencies = (
 			);
 			productName = "Spend Smart";
-			productReference = 270255972EE10AE5009C2EF4 /* Spend Smart.app */;
+			productReference = 279034412EE27A91006C1B77 /* Spend Smart.app */;
 			productType = "com.apple.product-type.application";
 		};
 		270255A32EE10AE6009C2EF4 /* Spend SmartTests */ = {
@@ -196,7 +186,7 @@
 			mainGroup = 2702558E2EE10AE5009C2EF4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 270255982EE10AE5009C2EF4 /* Products */;
+			productRefGroup = 2702558E2EE10AE5009C2EF4;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -395,6 +385,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L5AFXWC34B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -426,6 +417,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L5AFXWC34B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
